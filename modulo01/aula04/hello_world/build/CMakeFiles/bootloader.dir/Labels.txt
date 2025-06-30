@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Joao/codigo/c/Esp-Idf-Wrkits/modulo01/aula04/hello_world/build/CMakeFiles/bootloader
+C:/Joao/codigo/c/Esp-Idf-Wrkits/modulo01/aula04/hello_world/build/CMakeFiles/bootloader.rule
+C:/Joao/codigo/c/Esp-Idf-Wrkits/modulo01/aula04/hello_world/build/CMakeFiles/bootloader-complete.rule
+C:/Joao/codigo/c/Esp-Idf-Wrkits/modulo01/aula04/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Joao/codigo/c/Esp-Idf-Wrkits/modulo01/aula04/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Joao/codigo/c/Esp-Idf-Wrkits/modulo01/aula04/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Joao/codigo/c/Esp-Idf-Wrkits/modulo01/aula04/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Joao/codigo/c/Esp-Idf-Wrkits/modulo01/aula04/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Joao/codigo/c/Esp-Idf-Wrkits/modulo01/aula04/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Joao/codigo/c/Esp-Idf-Wrkits/modulo01/aula04/hello_world/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
